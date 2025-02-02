@@ -11,7 +11,7 @@ export default function Philosophy() {
               We live in an era which is on the cusp of radical change due to AI. It is absolutely certain that our children will experience a world vastly different than today.
             </p>
             <p className="mb-4">
-              As a parent of an 8-year-old, I wrestle with this question: "In a world where everything is changing, what are the skillsets that will remain foundational? What is the base upon which everything is built?"
+              As a parent of an 8-year-old, I wrestle with this question: &ldquo;In a world where everything is changing, what are the skillsets that will remain foundational? What is the base upon which everything is built?&rdquo;
             </p>
             <p>
               I believe that the answer lies in fostering critical thinking, communication, and more importantly, having a deeper understanding of Maths.

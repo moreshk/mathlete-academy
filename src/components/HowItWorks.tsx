@@ -32,7 +32,7 @@ export default function HowItWorks() {
               <FaSmile className="text-3xl text-blue-600 mr-4 mt-1" />
               <div>
                 <h3 className="text-xl font-semibold mb-2 text-gray-900">Satisfaction Guarantee</h3>
-                <p className="text-gray-700">If you're unhappy after the first 4 sessions, you can request a full refund, no questions asked.</p>
+                <p className="text-gray-700">If you&apos;re unhappy after the first 4 sessions, you can request a full refund, no questions asked.</p>
               </div>
             </div>
           </div>
