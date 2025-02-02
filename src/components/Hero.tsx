@@ -17,7 +17,7 @@ export default function Hero() {
               href="#booking"
               className="inline-block px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
             >
-              Book a Session
+              Enquire Now
             </a>
           </div>
         </div>
