@@ -38,6 +38,15 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <Script src="https://assets.calendly.com/assets/external/widget.js" async />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-48F286BJ6Q" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-48F286BJ6Q');
+          `}
+        </Script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
